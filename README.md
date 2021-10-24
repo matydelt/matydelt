@@ -1,3 +1,4 @@
+![](https://i.ibb.co/6PRHqqm/1634676669066.jpg)
 ### HOLA MUNDO!
 
 Soy desarrollador Full Stack JavaScript,responsable,energico y apasionado tanto por react como por el Back-end. Realice un bootcamp de mas de 800hs de codeo junto a compañeros , aprendiendo a trabajar en equipos con la metodologia de scrum.
