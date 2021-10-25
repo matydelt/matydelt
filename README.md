@@ -17,6 +17,7 @@ Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo perso
 Contacto:
  *  [Linkedin](https://www.linkedin.com/in/matias-taborda-full-stack)
  *  [cv](https://drive.google.com/file/d/10EzTqYPxn2pjYIcbS_67KKyaiALWUUAI/view?usp=sharing)
+ *  [portfolio](https://portfolio-fawn-six.vercel.app/)
  
  
 Proyectos:
