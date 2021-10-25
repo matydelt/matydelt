@@ -12,6 +12,7 @@ Soy desarrollador Full Stack JavaScript,responsable,energico y apasionado tanto 
 
 
 Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
+![](https://i.ibb.co/ZGZVzyr/skills.png)
 
 Contacto:
  *  [Linkedin](https://www.linkedin.com/in/matias-taborda-full-stack)
