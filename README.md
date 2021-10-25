@@ -21,8 +21,8 @@ Contacto:
  
  
 Proyectos:
-* ⛅️[Weather-App](https://github.com/matydelt/weather-app)
-* ✈️[Countries-App](https://github.com/matydelt/countries)
+* ⛅️Weather-App [Code](https://github.com/matydelt/weather-app)
+* ✈️Countries   [deploy](https://countries-matydelt.vercel.app/) | [code](https://github.com/matydelt/countries)
 
 
 <!--
