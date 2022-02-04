@@ -4,10 +4,10 @@
 Soy desarrollador Full Stack JavaScript,responsable,energico y apasionado tanto por react como por el Back-end. Realice un bootcamp de mas de 800hs de codeo junto a compañeros , aprendiendo a trabajar en equipos con la metodologia de scrum.
 
 🧠 Habilidades:
- * 💻 JavaScript, React.
- * ⚙️ Node.JS, Express.Js.
+ * 💻 JavaScript, TypeScript.
+ * ⚙️ React,Node.JS, Express.Js, Mongoose.
  * 👁️ CSS, Bootstrap.
- * 💽 PostgreSQL.
+ * 💽 PostgreSQL, MongoDB.
  * 💬 Git, SCRUM, Slack, Trello.
 
 
