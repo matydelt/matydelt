@@ -1,41 +1,41 @@
-![](https://i.ibb.co/6PRHqqm/1634676669066.jpg)
-### HOLA MUNDO!
+# Hi, I'm Matías Taborda! 👋
 
-Soy desarrollador Full Stack JavaScript,responsable,energico y apasionado tanto por react como por el Back-end. Realice un bootcamp de mas de 800hs de codeo junto a compañeros , aprendiendo a trabajar en equipos con la metodologia de scrum.
+**Full Stack Web Developer** | Buenos Aires, Argentina 🇦🇷
 
-🧠 Habilidades:
- * 💻 JavaScript, TypeScript.
- * ⚙️ React,Node.JS, Express.Js, Mongoose.
- * 👁️ CSS, Bootstrap.
- * 💽 PostgreSQL, MongoDB.
- * 💬 Git, SCRUM, Slack, Trello.
+🔹 Passionate about scalable and efficient software development.  
+🔹 Experienced in integrating large data volumes and optimizing workflows.  
+🔹 Love working with modern web technologies!  
 
+## 🚀 Tech Stack
 
-Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
+- **Languages:** JavaScript, TypeScript, PHP, Java  
+- **Front-End:** React, Vue  
+- **Back-End:** NestJS, Express, PHP  
+- **Testing:** Cypress, Jest  
+- **Methodologies:** Scrum, Agile  
 
+## 💼 Work Experience
 
-Contacto:
- *  [Linkedin](https://www.linkedin.com/in/matias-taborda-full-stack)
- *  [cv](https://drive.google.com/file/d/10EzTqYPxn2pjYIcbS_67KKyaiALWUUAI/view?usp=sharing)
- *  [portfolio](https://portfolio-fawn-six.vercel.app/)
- 
- 
-Proyectos:
-* ⛅️Weather-App [Code](https://github.com/matydelt/weather-app)
-* ✈️Countries   [deploy](https://countries-matydelt.vercel.app/) | [code](https://github.com/matydelt/countries)
+### Back-End Developer | Wally *(09/2022 - Present)*  
+- Developing and maintaining features in NestJS and TypeScript.
+- Integrating with Android teams for feature implementations.
+- Migrating users from the old application to the new platform.
 
+### Full-Stack Developer | Electro3 *(02/2022 - 09/2022)*  
+- Developed new features using Vue and Node.
+- Generated large-scale data reports in Excel.
+- Managed large data flows and optimized processes.
 
-<!--
-**matydelt/matydelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
 
-Here are some ideas to get you started:
+- **Computer Engineering** *(2020 - Present)* – National University of La Matanza.
+- **Full-Stack Developer Training** *(800+ hours)* – Intensive web development program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matias-t)
+
+---
+
+⭐️ Feel free to check out my repositories and projects!
+
